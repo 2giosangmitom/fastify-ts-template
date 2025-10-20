@@ -1,6 +1,7 @@
 {
   "name": "@fastify-ts-template/web",
   "version": "1.0.0",
+  "description": "Web service for Fastify TypeScript template",
   "type": "module",
   "engines": {
     "node": "^22.12.0"
