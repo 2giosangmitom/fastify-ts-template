@@ -1,0 +1,16 @@
+{
+  "name": "@fastify-ts-template/api",
+  "version": "1.0.0",
+  "dependencies": {
+    "@fastify/cors": "^11.1.0",
+    "@fastify/env": "^5.0.3",
+    "@fastify/swagger": "^9.5.2",
+    "@fastify/swagger-ui": "^5.2.3",
+    "fastify": "^5.6.1",
+    "prisma": "^6.17.1",
+    "typescript": "~5.9.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.8.1"
+  }
+}
